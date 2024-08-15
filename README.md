@@ -105,9 +105,9 @@ Here are the key questions we need to answer for our client:
 - What did we learn?
 
 We discovered that
-1. United State is the highest order sales by country, followed by Ireland, with United Kingdom being the last top sales by country.
-2. Don Flintiff, Nealson Cuttler, Terri Farra, Brenn Dundredge and Allis are the top customers by sales.
-3. 2021 was the year with the highest sales with a sum of **$13,766**, 2020 sales was **$12,118**, 2019 sales was a total of **$12,187**, and lastly 2022 which was the lowest sales with a sum of **$7,063**.
+1. The west region generate the most sum of sales and profit while the east region generate the most sum of tax.
+2. With the categories, the technology categories generate the most sum of sales compared to the rest.
+3. The sale performance per quater, have been fluctuating over the years with the highest quater achieving a value of 280054.067 in the year 2017.
 
  # Recommendations
 
