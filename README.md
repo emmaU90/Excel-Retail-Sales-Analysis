@@ -113,10 +113,10 @@ We discovered that
 - What do you recommend based on the insights gathered?
 
 1. Sales have been rapidly increasing at the end of every fourth quater so therefore, i recommend an increase in production within this period in the coming year.
-2. Since the technology category generate most sales, i recommend that a smaal portion of the production cost for furniture be subtracted and added to the technology sector, in other to maximize additional profit.
+2. Since the technology category generate most sales, i recommend that a small portion of the production cost for furniture be subtracted and added to the technology sector, in other to maximize additional profit.
 3. Finally, the west region should be our top region for selling most product especially, in the aspect of technology.
 
 
 # Conclusion
 
-Base on the findings and analysis of the US retail sales dashcoard, we can conclude that the project showcases the effectiveness of exploratory data analysis in providing useful insights in dataset that was used to make better prediction for the company.
+Base on the findings and analysis of the US retail sales dashboard, we can conclude that the project showcases the effectiveness of exploratory data analysis in providing useful insights in dataset that was used to make better prediction for the company.
