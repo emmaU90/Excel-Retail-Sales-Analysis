@@ -20,8 +20,7 @@
 
 - What is the key main point?
 
-A US retail company wants to analyze sales data to generate insights for their growth. The  company wants to know the most profitable region and the product categories that  generate the most profit.
-The aim of this project is to build an interactive microsoft excel dashboard to allow the users to quickly identify trends in the coffee sales as well as perform exploratory data analysis on the available datasets to generate actionable insights and recommendations.
+A US retail company wants to analyze sales data to generate insights for their growth. The  company wants to know the most profitable region and the product categories that  generate the most profit. The aim of this project is to build an interactive microsoft excel dashboard to allow the users to quickly identify trends in the retail sales.
 
 - What is the ideal solution?
 
