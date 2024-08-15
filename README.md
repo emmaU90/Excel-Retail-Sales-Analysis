@@ -86,11 +86,11 @@ For this analysis, we’re going to focus on the questions below to get the info
 
 Here are the key questions we need to answer for our client:
 
-1. Who are the top sales by country?
-2. Top 5 customers by sales?
-3. top sale over the years?
+1. What region generates the most sales, profit, and tax?
+2. What categories generate the most sales per region?
+3. What is the sales performance per quarter for the 3 years? 
 
-### 1. Who are the top sales by country?
+### 1. What region generates the most sales, profit, and tax?
 ![Visualization](assets/images/CountrySumOfSales.PNG)
 
 ### 2. Top 5 customers by sales?
