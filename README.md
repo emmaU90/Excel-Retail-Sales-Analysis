@@ -56,6 +56,7 @@ We need data on the product orders, customers and ship mode which includes their
 - Define metrics such as total sales, time trend, profit, sales and tax etc.
 - Explore the data, create charts and graphs to visualise trends and insights for recommendations.
 
+
 # Data cleaning
 
 - What do we expect the clean data to look like?
